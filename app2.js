@@ -11,3 +11,6 @@ function sumTalrække(a, b) {
     }
     return sum;
   }
+
+  1237458123578123578 
+  
