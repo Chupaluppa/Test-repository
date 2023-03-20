@@ -5,7 +5,7 @@ Funktioner du skal lave:
 2. En funktion der tager to stykker tekst, og returnerer deres to forbogstaver sat sammen. Fx hvis input er “kat” og “hund”, skal return value være “kh”.
 En funktion der tager to input: et tal og en tekst. Funktionen skal afgøre om teksten er længere end tallet, og returnerer true eller false.
 */
-//ÆNDRING
+//ÆNDRING2323232323
 //1
 function hejsa(navn) {
     return "Hejsa, " + navn;
