@@ -11,3 +11,6 @@ function treTal(a, b, c) {
       return false;
     }
   }
+
+  så er der fandeme pause makker
+  
